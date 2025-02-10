@@ -47,7 +47,7 @@ A meal delivery company operates in multiple cities with various fulfillment cen
    - The competition used **Root Mean Squared Logarithmic Error (RMSLE)** as the evaluation metric.
 
 4. **Leaderboard Score:**
-   - My model achieved an **RMSLE Score of 75.7**, securing **position 1203** on the leaderboard.
+   - My model scored at **75.7** by Vidya Analytics, securing **position 1203** on the leaderboard.
 
 ## 🚀 How to Run
 1. Clone the repository:
